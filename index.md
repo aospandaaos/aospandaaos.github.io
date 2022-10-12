@@ -71,7 +71,7 @@ Igor Kalkov-Streitz - Emteria
 
 ### Talk 1: Securing iMX6 Android Devices
 Andrea Scian - DAVE Embedded Systems  
-[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2022-may-AOSP_Meetup_SecuriAng_iMX6_Android_Devices.pdf)
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2022-may-AOSP_Meetup_Securing_iMX6_Android_Devices.pdf)
 [Video](https://youtu.be/cc69ybvH-bM)
 
 ### Talk 2: Long term support for Enterprise Android Devices
