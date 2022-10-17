@@ -43,7 +43,7 @@ Devon Yablonski - Memfault
 Jürgen Weißer
 [Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2022-september-jweisser-rpi4-debug.pdf)
 [Video](https://youtu.be/XwQNfCkeumI)
-
+[Files](https://github.com/aospandaaos/gdb_lldb_debugging_custom_RPI4_linux_kernel)
 
 
 ## The July 2022 meetup
