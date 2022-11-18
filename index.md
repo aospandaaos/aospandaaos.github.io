@@ -20,6 +20,30 @@ The slides for all of the talks are available - just click on the links below.
 Most of the talks are recorded as well
 
 
+## The November 2022 meetup
+
+16th November 2022 <https://https://www.meetup.com/the-aosp-and-aaos-meetup/events/288711718/>
+
+
+### Talk 1: ConnectivityService and networking in Android
+Diogo Júnior - Critical TechWorks
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2022-november-ConnectivityOnAndroid-DiogoJunior.pdf)
+[Video](https://youtu.be/F_lRRKpUuuo)
+
+
+### Talk 2: Securing iMX6 Android Devices, Part 2
+Andrea Scian - DAVE Embedded Systems
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2022-november-Securing_iMX6_Android_Devices-part-2.pdf)
+[Video](https://youtu.be/LaSA0xGP81Q)
+
+
+### Talk 3: Debugging SEPolicy
+Chris Simmonds - 2net
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2022-november-csimmonds-selinux.pdf)
+[Video]( https://youtu.be/yxhDD3qJyVo)
+
+
+
 ## The September 2022 meetup
 
 28th September 2022 <https://www.meetup.com/the-aosp-and-aaos-meetup/events/287270409/>
