@@ -22,7 +22,7 @@ Most of the talks are recorded as well
 
 ## The November 2022 meetup
 
-16th November 2022 <https://https://www.meetup.com/the-aosp-and-aaos-meetup/events/288711718/>
+16th November 2022 <https://www.meetup.com/the-aosp-and-aaos-meetup/events/288711718/>
 
 
 ### Talk 1: ConnectivityService and networking in Android
