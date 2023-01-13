@@ -29,7 +29,7 @@ Most of the talks are recorded as well
 
 ### Talk 1: App developers and Android Automotive OS
 Al Sutton - Snapp Automotive
-[Slides](tbd)
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-january-asutton-apps-for-aaos.pdf)
 [Video](https://youtu.be/IaLsLflXBsc)
 
 ### Talk 2: Thoughts about AOSP on Raspberry Pi 4
