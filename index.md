@@ -5,19 +5,37 @@ layout: default
 # About
 
 The AOSP and AAOS Meetup Group is a forum for talking about building,
-developing and testing products based on AOSP. Click on this link to see the
-group page at meetup.com: <https://www.meetup.com/the-aosp-and-aaos-meetup/>
+developing and testing products based on AOSP and AAOS
 
+We have a Slack workspace for chat about the things we are working on:
+<https://join.slack.com/t/theaospandaao-ij91284/shared_invite/zt-1h1dkdiox-U1ziKbPVylZbSVCpHwY1fQ>
 
 # Meetups
 
-We have an on-line meeting every two months, starting in March 2022 (so in
-2022, that is March, May, July, September, and November). Each meeting is 2
+Click on this link to see the group page at meetup.com:
+<https://www.meetup.com/the-aosp-and-aaos-meetup/>
+
+We have an on-line meeting every two months in January, March, May, July,
+September, and November. Each meeting is 2
 hours, starting with 10 minutes meet and greet, followed by three or four talks
 on any topics that we find interesting, followed by time for networking
 
 The slides for all of the talks are available - just click on the links below.
 Most of the talks are recorded as well
+
+## The January 2023 Meetup
+
+11th January 2023 <https://www.meetup.com/the-aosp-and-aaos-meetup/events/289470147/>
+
+### Talk 1: App developers and Android Automotive OS
+Al Sutton - Snapp Automotive
+[Slides](tbd)
+[Video](https://youtu.be/IaLsLflXBsc)
+
+### Talk 2: Thoughts about AOSP on Raspberry Pi 4
+Chris Simmonds - 2net
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-january-csimmonds-rpi4.pdf)
+[Video]( https://youtu.be/WAsCXnLOD-A)
 
 
 ## The November 2022 meetup
