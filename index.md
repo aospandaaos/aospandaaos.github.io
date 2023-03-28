@@ -8,7 +8,8 @@ The AOSP and AAOS Meetup Group is a forum for talking about building,
 developing and testing products based on AOSP and AAOS
 
 We have a Slack workspace for chat about the things we are working on:
-<https://join.slack.com/t/theaospandaao-ij91284/shared_invite/zt-1h1dkdiox-U1ziKbPVylZbSVCpHwY1fQ>
+<https://join.slack.com/t/theaospandaao-ij91284/shared_invite/zt-1k7lmay4j-fX1EGjNgN7OUh72jucQg2g>
+
 
 # Meetups
 
