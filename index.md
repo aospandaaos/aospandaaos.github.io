@@ -24,6 +24,23 @@ on any topics that we find interesting, followed by time for networking
 The slides for all of the talks are available - just click on the links below.
 Most of the talks are recorded as well
 
+
+## The March 2023 Meetup
+
+29th March 2023 <https://www.meetup.com/the-aosp-and-aaos-meetup/events/290740637/>
+
+### Talk 1: Devboard maintenance in AOSP
+Amit Pundir, Linaro
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-march-apundir-devboards-in-aosp.pdf)
+[Video](https://https://youtu.be/VDYhz69xXwc)
+
+
+### Talk 2: Debugging Made Easy: Tips and Tricks for Android Developers
+Chris Hayes, Memfault
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-march-chayes-debugging-tips.pdf)
+[Video](https://youtu.be/9HcFtcd_DKQ)
+
+
 ## The January 2023 Meetup
 
 11th January 2023 <https://www.meetup.com/the-aosp-and-aaos-meetup/events/289470147/>
