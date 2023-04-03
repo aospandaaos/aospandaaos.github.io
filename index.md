@@ -32,7 +32,7 @@ Most of the talks are recorded as well
 ### Talk 1: Devboard maintenance in AOSP
 Amit Pundir, Linaro
 [Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-march-apundir-devboards-in-aosp.pdf)
-[Video](https://https://youtu.be/VDYhz69xXwc)
+[Video](https://youtu.be/VDYhz69xXwc)
 
 
 ### Talk 2: Debugging Made Easy: Tips and Tricks for Android Developers
