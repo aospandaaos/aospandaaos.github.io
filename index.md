@@ -25,6 +25,29 @@ The slides for all of the talks are available - just click on the links below.
 Most of the talks are recorded as well
 
 
+## The May 2023 Meetup
+
+24th May 2023: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/292517323/>
+
+### Introduction
+<https://2net.co.uk/slides/aosp-aaos-meetup/2023-may-instroduction.pdf>
+
+### Talk 1: Broadcast Radio in AAOS
+Simon Osim, Conjure
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-may-sosim-broadcast-radio.pdf)
+[Video](https://youtu.be/xUMLpF-kM0s)
+
+### Talk 2: RAMSES – An open source 3D graphics tool chain for Android
+Klaus Gaßner, Paradox Cat
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-may-paradoxcat-ramses.pdf)
+[Video](https://youtu.be/1Sa6Tx2-EPM)
+
+### Talk 3: Evolution of an Android OTA management application
+Diego Rondini, Kynetics
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-may-drondini-ota.pdf)
+[Video](https://youtu.be/qdXZhMIWZ8U)
+
+
 ## The March 2023 Meetup
 
 29th March 2023 <https://www.meetup.com/the-aosp-and-aaos-meetup/events/290740637/>
