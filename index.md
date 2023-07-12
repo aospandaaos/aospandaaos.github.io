@@ -42,9 +42,18 @@ Most of the talks are recorded as well
 
 ### Talk 1: Binder RPC - AIDL for distributed systems
 David Brazdil, Google
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-july-dbrazdil-rpc-binder.pdf)
+[Video](https://youtu.be/undYyHZtiuk)
 
 ### Talk 2: Debugging AOSP using Android Studio - revisited
 Chris Simmonds, 2net
+[Slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-july-csimmonds-debug2.pdf)
+[Video](https://youtu.be/hy40algJYuY)
+
+### Useful links
+what-changed - list changes in repos between two tags: <https://github.com/aospandaaos/useful-scripts>
+Repoload - a change request download tool: <https://github.com/lengfeld/repoload/>
+A JDB/GDB plugin for VIM: <https://github.com/brookhong/jdb.vim>
 
 
 ## The May 2023 Meetup
