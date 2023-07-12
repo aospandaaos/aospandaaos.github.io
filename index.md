@@ -5,24 +5,46 @@ layout: default
 # About
 
 The AOSP and AAOS Meetup Group is a forum for talking about building,
-developing and testing products based on AOSP and AAOS
+developing and testing products based on AOSP and AAOS (Android Automotive OS)
 
-We have a Slack workspace for chat about the things we are working on:
+# Community
+
+Community is where we all come together to talk and exchange ideas. The best resource
+in this space is the [AOSP Developers Community](https://aosp-developers-community.github.io/).
+Feel free to join in the chat there
+
+There is also a Slack workspace (for historical reasons) dedicated to the meetup:
 <https://join.slack.com/t/theaospandaao-ij91284/shared_invite/zt-1k7lmay4j-fX1EGjNgN7OUh72jucQg2g>
 
 
 # Meetups
 
+Meetings are held every two months, starting in March 2022 (so in 2023, that is
+January, March, May, July, September, and November). Each meeting is 2 hours, starting
+with 10 minutes meet and greet, followed by two or three talks of up to 20
+minutes each on any topics that we find interesting, followed by time for
+networking. Since AOSP and AAOS developers are scattered over a wide area, this
+is an online meetup
+
 Click on this link to see the group page at meetup.com:
 <https://www.meetup.com/the-aosp-and-aaos-meetup/>
 
-We have an on-line meeting every two months in January, March, May, July,
-September, and November. Each meeting is 2
-hours, starting with 10 minutes meet and greet, followed by three or four talks
-on any topics that we find interesting, followed by time for networking
-
 The slides for all of the talks are available - just click on the links below.
 Most of the talks are recorded as well
+
+
+## The July 2023 Meetup
+
+12th July 2023: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/293488203/>
+
+### Introduction
+<https://2net.co.uk/slides/aosp-aaos-meetup/2023-july-introduction.pdf>
+
+### Talk 1: Binder RPC - AIDL for distributed systems
+David Brazdil, Google
+
+### Talk 2: Debugging AOSP using Android Studio - revisited
+Chris Simmonds, 2net
 
 
 ## The May 2023 Meetup
