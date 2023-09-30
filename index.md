@@ -33,6 +33,19 @@ The slides for all of the talks are available - just click on the links below.
 Most of the talks are recorded as well
 
 
+## The September 2023 Meetup
+27th September 2023: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/294716404/>
+
+### Introduction
+<https://2net.co.uk/slides/aosp-aaos-meetup/2023-september-introduction.pdf>
+
+### Talk 1: Interactive AOSP-based cloud streaming solution
+Running an AOSP 13 adaptation on an ARM64 cloud server, streaming it to an actual phone at high frame rate and low-latency for touch events.
+Simonas Leleiva
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-september-sleleiva-aosp-in-the-cloud.pdf)
+
+
+
 ## The July 2023 Meetup
 
 12th July 2023: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/293488203/>
