@@ -41,7 +41,7 @@ Most of the talks are recorded as well
 
 ### Talk 1: Interactive AOSP-based cloud streaming solution
 Running an AOSP 13 adaptation on an ARM64 cloud server, streaming it to an actual phone at high frame rate and low-latency for touch events.
-Simonas Leleiva
+Simonas Leleiva, iond.io
 [slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-september-sleleiva-aosp-in-the-cloud.pdf)
 
 
