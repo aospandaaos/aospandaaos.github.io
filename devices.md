@@ -34,8 +34,9 @@ would like me to add them to this gallery, please email me at chris@2net.co.uk
 
 
 ## Test and measurement
-| Rigol DHO 1000 oscilloscope| ![DHO 1000](images/rigol-dho-1000-oscilloscope.png)|
-|---|---|
+| Rigol DHO 1000 oscilloscope | ![DHO 1000](images/rigol-dho-1000-oscilloscope.png) |
+|-----------------------------|-----------------------------------------------------|
+|                             |                                                     |
 
 
 ## Bikes and scooters
