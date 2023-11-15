@@ -9,12 +9,15 @@ developing and testing products based on AOSP and AAOS (Android Automotive OS)
 
 # Community
 
-Community is where we all come together to talk and exchange ideas. The best resource
-in this space is the [AOSP Developers Community](https://aosp-developers-community.github.io/).
-Feel free to join in the chat there
-
-There is also a Slack workspace (for historical reasons) dedicated to the meetup:
+Community is where we all come together to talk and exchange ideas. This meetup
+is part of that, and there is a Slack workspace (for historical reasons) where
+can keep in touch between meetups:
 <https://join.slack.com/t/theaospandaao-ij91284/shared_invite/zt-1k7lmay4j-fX1EGjNgN7OUh72jucQg2g>
+
+
+# Devices
+Android is not just smart phones. [There is a separate section dedicated to
+Android running on devices of all types](devices.html)
 
 
 # Meetups
@@ -43,6 +46,7 @@ Most of the talks are recorded as well
 In this session you will learn the most important parts of working on custom
 devices. We will cover things like developers boards, board support packages,
 AOSP builds, firmware updates, and much more
+
 Erik Hellman
 
 ### Talk 2: Adventures with Systrace - measure and investigate the glass to glass latency in Android
@@ -54,8 +58,9 @@ photodiodes and an oscilloscope, to camera sensors and the rolling shutter
 effect, to displays and refresh rates, to surfaceflinger and vsyncs, and last
 but not least to the ultimate tool to debug most of your performance issues, to
 Android's systrace
+
 Stefan Lengfeld, Inovex
-[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-september-sleleiva-aosp-in-the-cloud.pdf)
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-november-slengfeld-glass-to-glass-latency.pdf)
 
 
 ## The September 2023 Meetup
