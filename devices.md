@@ -33,28 +33,33 @@ sections below give some representative examples. If you know of others and you
 would like me to add them to this gallery, please email me at chris@2net.co.uk
 
 
-##Test and measurement
-Rigol oscilloscope
-![DHO 1000](images/rigol-dho-1000-oscilloscope.jpg)
+## Test and measurement
+| Rigol DHO 1000 oscilloscope| ![DHO 1000](images/rigol-dho-1000-oscilloscope.png)|
+|---|---|
 
 
-##Bikes and scooters
-  Aether Energy 450X scooter
+## Bikes and scooters
+| Aether Energy 450X scooter | ![alt text](images/aether-450x.jpeg "Aether 450X") |
+|---|---|
 
 
-##Point of Sale
-  Verifone
+## Point of Sale
+| Verifone | ![](images/verifone-t650p.jpeg) |
+|---|---|
 
-  Zebra (Symbol) TC8300 Touch Computer
-![TC8300 Touch Computer](images/zebra-tc8300-handheld.jpg)
+| Zebra (Symbol) TC8300 Touch Computer | ![TC8300 Touch Computer](images/zebra-tc8300-handheld.jpg)|
+|---|---|
 
-  Flowbird (formerly Parkeon) parking meters:
-
-
-##Exercise machines
-  Peloton - all machines,
+|Flowbird (formerly Parkeon) parking meters ||
+|---|---|
 
 
-##Building and room access
-  Jung door entry panel
+## Exercise machines
+|Peloton| ![](images/peloton-screen.jpeg) |
+|---|---|
+
+
+## Building and room access
+| Jung door entry panel| ![](images/jung-door-entry.jpg) |
+|---|---|
 
