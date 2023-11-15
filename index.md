@@ -33,6 +33,31 @@ The slides for all of the talks are available - just click on the links below.
 Most of the talks are recorded as well
 
 
+## The November 2023 Meetup
+15th November 2023: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/296399142/>
+
+### Introduction
+<https://2net.co.uk/slides/aosp-aaos-meetup/2023-november-introduction.pdf>
+
+### Talk 1: Working with custom Android devices
+In this session you will learn the most important parts of working on custom
+devices. We will cover things like developers boards, board support packages,
+AOSP builds, firmware updates, and much more
+Erik Hellman
+
+### Talk 2: Adventures with Systrace - measure and investigate the glass to glass latency in Android
+What is the glass to glass latency in Android? This means how much delay is
+between the camera, taking a picture, and the screen, to display the picture
+again. This presentation is a technical tour through the Android graphics
+system and hardware. From the measurement setup, based on cables, LEDs,
+photodiodes and an oscilloscope, to camera sensors and the rolling shutter
+effect, to displays and refresh rates, to surfaceflinger and vsyncs, and last
+but not least to the ultimate tool to debug most of your performance issues, to
+Android's systrace
+Stefan Lengfeld, Inovex
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-september-sleleiva-aosp-in-the-cloud.pdf)
+
+
 ## The September 2023 Meetup
 27th September 2023: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/294716404/>
 
