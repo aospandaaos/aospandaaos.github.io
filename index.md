@@ -10,7 +10,7 @@ developing and testing products based on AOSP and AAOS (Android Automotive OS)
 # Community
 
 Community is where we all come together to talk and exchange ideas. This meetup
-is part of that, and there is a Slack workspace (for historical reasons) where
+is part of that, and there is a Slack workspace (for historical reasons) where we
 can keep in touch between meetups:
 <https://join.slack.com/t/theaospandaao-ij91284/shared_invite/zt-1k7lmay4j-fX1EGjNgN7OUh72jucQg2g>
 
@@ -40,7 +40,8 @@ Most of the talks are recorded as well
 15th November 2023: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/296399142/>
 
 ### Introduction
-<https://2net.co.uk/slides/aosp-aaos-meetup/2023-november-introduction.pdf>
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-november-introduction.pdf)
+[video](https://youtu.be/4CGs93MoDdA)
 
 ### Talk 1: Working with custom Android devices
 In this session you will learn the most important parts of working on custom
@@ -48,6 +49,8 @@ devices. We will cover things like developers boards, board support packages,
 AOSP builds, firmware updates, and much more
 
 Erik Hellman
+
+[slides](https://speakerdeck.com/erikhellman/working-with-custom-android-devices-and-aosp-build-system) [video](https://youtu.be/Yds-lc1TD3g)
 
 ### Talk 2: Adventures with Systrace - measure and investigate the glass to glass latency in Android
 What is the glass to glass latency in Android? This means how much delay is
@@ -60,7 +63,14 @@ but not least to the ultimate tool to debug most of your performance issues, to
 Android's systrace
 
 Stefan Lengfeld, Inovex
-[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-november-slengfeld-glass-to-glass-latency.pdf)
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-november-slengfeld-glass-to-glass-latency.pdf) [video](https://youtu.be/NKP4JcVegbY)
+
+### Q & A
+Following the two talks at the meetup there was a Q & A session that covered
+topics from the talks and also other (related) topics
+
+[video[(https://youtu.be/I2vQmhDSLtw)
 
 
 ## The September 2023 Meetup
