@@ -70,7 +70,7 @@ Stefan Lengfeld, Inovex
 Following the two talks at the meetup there was a Q & A session that covered
 topics from the talks and also other (related) topics
 
-[video[(https://youtu.be/I2vQmhDSLtw)
+[video](https://youtu.be/I2vQmhDSLtw)
 
 
 ## The September 2023 Meetup
