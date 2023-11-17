@@ -62,7 +62,7 @@ effect, to displays and refresh rates, to surfaceflinger and vsyncs, and last
 but not least to the ultimate tool to debug most of your performance issues, to
 Android's systrace
 
-Stefan Lengfeld, Inovex
+Stefan Lengfeld, inovex
 
 [slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-november-slengfeld-glass-to-glass-latency.pdf) [video](https://youtu.be/NKP4JcVegbY)
 
