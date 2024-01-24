@@ -62,7 +62,7 @@ effect, to displays and refresh rates, to surfaceflinger and vsyncs, and last
 but not least to the ultimate tool to debug most of your performance issues, to
 Android's systrace
 
-Stefan Lengfeld, Inovex
+Stefan Lengfeld, inovex
 
 [slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-november-slengfeld-glass-to-glass-latency.pdf) [video](https://youtu.be/NKP4JcVegbY)
 
@@ -70,7 +70,7 @@ Stefan Lengfeld, Inovex
 Following the two talks at the meetup there was a Q & A session that covered
 topics from the talks and also other (related) topics
 
-[video[(https://youtu.be/I2vQmhDSLtw)
+[video](https://youtu.be/I2vQmhDSLtw)
 
 
 ## The September 2023 Meetup
