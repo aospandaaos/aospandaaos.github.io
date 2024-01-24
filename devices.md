@@ -34,33 +34,31 @@ would like me to add them to this gallery, please email me at chris@2net.co.uk
 
 
 ## Test and measurement
-| Rigol DHO 1000 oscilloscope | ![DHO 1000](images/rigol-dho-1000-oscilloscope.png) |
-|-----------------------------|-----------------------------------------------------|
-|                             |                                                     |
+### Rigol DHO 1000 oscilloscope
+![DHO 1000](images/rigol-dho-1000-oscilloscope.png)
+
+[https://www.rigol.eu/products/oscillosopes/DHO1000%20series.html](https://www.rigol.eu/products/oscillosopes/DHO1000%20series.html)
 
 
 ## Bikes and scooters
-| Aether Energy 450X scooter | ![alt text](images/aether-450x.jpeg "Aether 450X") |
-|---|---|
+### Aether Energy 450X scooter
+![Energy 450X](images/aether-450x.jpeg "Aether 450X")
 
 
 ## Point of Sale
-| Verifone | ![](images/verifone-t650p.jpeg) |
-|---|---|
+### Verifone
+![Verifone](images/verifone-t650p.jpeg)
 
-| Zebra (Symbol) TC8300 Touch Computer | ![TC8300 Touch Computer](images/zebra-tc8300-handheld.jpg)|
-|---|---|
-
-|Flowbird (formerly Parkeon) parking meters ||
-|---|---|
+### Zebra (Symbol) TC8300 Touch Computer
+![TC8300 Touch Computer](images/zebra-tc8300-handheld.jpg)
 
 
 ## Exercise machines
-|Peloton| ![](images/peloton-screen.jpeg) |
-|---|---|
+### Peloton
+![Peloton](images/peloton-screen.jpeg)
 
 
 ## Building and room access
-| Jung door entry panel| ![](images/jung-door-entry.jpg) |
-|---|---|
+### Jung door entry panel
+![Jung](images/jung-door-entry.jpg)
 
