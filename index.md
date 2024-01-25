@@ -36,6 +36,24 @@ The slides for all of the talks are available - just click on the links below.
 Most of the talks are recorded as well
 
 
+## The January 2024 Meetup
+24th January 2024: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/297043889/>
+
+### Talk 1: SELinux in Android
+How it works and how it's used to make Android more secure
+
+Alan Stokes, Google
+
+[slides](https://docs.google.com/presentation/d/1q-qqTSccLZNteyjgxMRWO971b_UbAKfPPyDHS59O5B4/edit)
+[video](https://youtu.be/uI9nk1VDCpY)
+
+
+### Talk 2: aminilog – AOSP styled logging macros for NDK projects
+Stefan Lengfeld, inovex
+
+[video](https://youtu.be/EZbpJKLEmUE)
+
+
 ## The November 2023 Meetup
 15th November 2023: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/296399142/>
 
