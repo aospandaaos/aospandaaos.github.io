@@ -51,7 +51,7 @@ Alan Stokes, Google
 ### Talk 2: aminilog – AOSP styled logging macros for NDK projects
 Stefan Lengfeld, inovex
 
-[video](https://youtu.be/EZbpJKLEmUE)
+[video](https://youtu.be/EZbpJKLEmUE) [github](https://github.com/lengfeld/aminilog)
 
 
 ## The November 2023 Meetup
