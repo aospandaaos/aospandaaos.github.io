@@ -36,6 +36,38 @@ The slides for all of the talks are available - just click on the links below.
 Most of the talks are recorded as well
 
 
+## The March 2024 Meetup
+
+20th March 2024: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/298562265/>
+
+### Introduction
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-march-introduction.pdf)
+
+
+### Talk 1: Android Fragmentation in the Automotive Industry
+
+Android fragmentation is becoming a real issue in the automotive industry.
+What is it and what can we do to prevent it?
+
+Juhani Lehtimäki, Snapp Automotive
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-march-jlehtimaeki-fragmentation-in-aaos.pdf)
+[video](https://youtu.be/ZC2MELSKf98)
+
+
+### Talk 2: What to expect in Android 15
+
+While the source code for this year's Android 15 'Vanilla Ice Cream' release
+won't be made public before early September (estimated), there's a lot we can
+glean about this release from Google's current developer previews, AOSP code
+changes, and documentation. Here's a summary of what to expect
+
+Mishaal Rahman
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-march-mrahman-what-to-expect-in-android-15.pdf)
+[video](https://youtu.be/9gZOPiuy8zQ)
+
+
 ## The January 2024 Meetup
 24th January 2024: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/297043889/>
 
