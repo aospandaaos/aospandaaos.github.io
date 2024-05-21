@@ -13,8 +13,8 @@ AOSP developers have to say on the topic
 
 In reality, you can build AOSP 14 with a minimum setup like this:
 
-* 32 GB RAM
-* 4 physical cores, 8 logical cores
+* 64 GB RAM
+* 4 physical cores
 * 500 GB disk
 
 A machine like this will take 6 to 10 hours to build the images
@@ -25,7 +25,8 @@ If you are building images many times per day then you will need something more 
 * 32 physical cores
 * 500 GB fast SSD
 
-Such a machine can build AOSP in an hour or two
+Such a machine can build AOSP in an hour or two. If you are building AOSP 13,
+you can get away with only 32 GB RAM
 
 You can can run the build locally on your own computer, or do it in the cloud.
 Buying a decent specification machine is going to cost several thousand
@@ -95,17 +96,17 @@ $ cd ~/aosp
 Now you are ready to use repo to get the code for you
 
 Repo works in two stages: first you download the manifest, then you synchronize
-each of the git repositories listed in the manifest. The total download is
-going to be about 160 GiB. This is how to get the manifest, using branch android-14.0.0_r28
+each of the git repositories listed in the manifest. Up to android-14.0.0_r28,
+the total download is about 160 GiB. From r29 onwards a full repo init and sync
+is about 900 GiB (!) so it's best practice to make a shallow clone by setting
+the depth to 1. This is how to get the manifest, using branch android-14.0.0_r37
 as an example:
 ```
-$ repo init -u https://android.googlesource.com/platform/manifest -b android-14.0.0_r28
+$ repo init --depth=1 -u https://android.googlesource.com/platform/manifest -b android-14.0.0_r37
 ```
-Note: at this stage you can instruct repo to do a "shallow clone", which leaves
-out the git history and cuts the total download down to about 100 GiB.
-Here is the repo command to do that:
+If you want to get the full git history, just miss off the --depth option:
 ```
-$ repo init --depth=1 -u https://android.googlesource.com/platform/manifest -b android-14.0.0_r28
+$ repo init -u https://android.googlesource.com/platform/manifest -b android-14.0.0_r37
 ```
 Whichever way you do it, repo init sets up the repo environment in (hidden)
 directory ~/aosp/.repo.  The manifest is stored in ~/aosp/.repo/manifests/default.xml.
