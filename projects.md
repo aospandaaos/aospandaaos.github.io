@@ -22,4 +22,6 @@ You can contact us via aospandaaosmeetup@gmail.com
 [Building AOSP for the Goldfish Emulator](device-goldfish.md)
 
 
+[Building AOSP for the VIM3 board](device-vim3.md)
+
 
