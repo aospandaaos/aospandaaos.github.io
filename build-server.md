@@ -46,7 +46,7 @@ Ubuntu that was current when AOSP was released. For AOSP 13 and 14, I use
 Ubuntu 20.04
 
 You need to install some packages:
-```
+```bash
 $ sudo apt-get install git-core gnupg flex bison build-essential zip curl \
 zlib1g-dev libc6-dev-i386 libncurses5 x11proto-core-dev libx11-dev lib32z1-dev \
 libgl1-mesa-dev libxml2-utils xsltproc unzip fontconfig
@@ -54,7 +54,7 @@ libgl1-mesa-dev libxml2-utils xsltproc unzip fontconfig
 
 The build requires Python 3. On Ubuntu 20.04, you can set python3 as default
 with this command:
-```
+```bash
 $ sudo apt install python-is-python3
 ```
 
@@ -62,7 +62,7 @@ $ sudo apt install python-is-python3
 ## Setting up git
 
 Make sure that you have configured git with your email and username:
-```
+```bash
 $ git config --global user.email "you@example.com"
 $ git config --global user.name "Your Name"
 ```
@@ -72,7 +72,7 @@ $ git config --global user.name "Your Name"
 
 AOSP uses the repo tool to manage the 1000 plus git repositories that make up AOSP.
 Get a copy of repo:
-```
+```bash
 $ curl https://storage.googleapis.com/git-repo-downloads/repo > $HOME/bin/repo
 $ chmod a+x $HOME/bin/repo
 ```
@@ -88,7 +88,7 @@ the versions released by the AOSP team here:
 Generally I choose the latest stable release
 
 Next, choose a directory for the AOSP source, e.g. ~/aosp:
-```
+```bash
 $ mkdir ~/aosp
 $ cd ~/aosp
 ```
@@ -101,11 +101,11 @@ the total download is about 160 GiB. From r29 onwards a full repo init and sync
 is about 900 GiB (!) so it's best practice to make a shallow clone by setting
 the depth to 1. This is how to get the manifest, using branch android-14.0.0_r37
 as an example:
-```
+```bash
 $ repo init --depth=1 -u https://android.googlesource.com/platform/manifest -b android-14.0.0_r37
 ```
 If you want to get the full git history, just miss off the --depth option:
-```
+```bash
 $ repo init -u https://android.googlesource.com/platform/manifest -b android-14.0.0_r37
 ```
 Whichever way you do it, repo init sets up the repo environment in (hidden)
@@ -114,7 +114,7 @@ It contains a list of all of the git repositories that need to be cloned to get 
 source code
 
 To get the source, you need to run the command repo sync
-```
+```bash
 $ cd ~/aosp
 $ repo sync -c
 ```

@@ -49,13 +49,13 @@ memory, or overheat. You can override the default job calculation by adding
 -j[number of jobs], for example 'm -j6' will run 6 parallel jobs
 
 In this case, we will let the AOSP build system decide, so just type:
-```
+```bash
 $ m
 ```
 The build is likely to take several hours unless you have a really powerful machine
 
 At the end you should see something like:
-```
+```bash
 #### build completed successfully (02:20:44 (hh:mm:ss)) ####
 ```
 
