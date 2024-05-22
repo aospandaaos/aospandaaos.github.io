@@ -1,4 +1,4 @@
-### [Back to index](README.md)
+[Back to projects overview](projects.md)
 
 # Project: Building AOSP for the VIM3 dev board
 
@@ -170,7 +170,7 @@ $ minicom -D /dev/ttyUSB0 -b 115200
 ### Flashing images - first time
 You need to install the correct version of the U-Boot bootloader. Looking in
 directory `aosp/device/amlogic/yukawa/bootloader` you will see binary versions
-of u-boot for all the yukawa dev boards: we need `u-boot_kvim3_ab.bin`
+of u-boot for all the yukawa dev boards: we need `u-boot_kvim3_noab.bin`
 
 First, put VIM3 in USB Upgrade MODE by:
 
