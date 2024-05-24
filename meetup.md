@@ -6,6 +6,46 @@ Here you will find an archive of all the meetings of the
 The slides and videos for all of the talks are available - just click on the links below.
 
 
+## The May 2024 Meetup
+
+22nd May 2024: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/299905713/>
+
+### Introduction
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-may-introduction.pdf)
+[video](https://youtu.be/Z-REBePidqA)
+
+### Talk 1: Introducing AOSP Meetup Projects
+Chris Simmonds
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-may-projects.pdf)
+[video](https://youtu.be/QXuIqwiiRFY)
+
+
+### Talk 2: Automotive AOSP Ecosystem: challenges and opportunities for App Developers
+
+In the last few years we've seen an increasing adoption from Automotive OEMs of
+Android based In-Vehicle Infotainment (IVI) platforms. While there are
+differences between platforms running with and without Google Automotive
+Services (GAS), the majority of apps can actually be built once and run
+anywhere, which is a paradigm shift for the industry. We'll discuss the
+different categories of automotive apps and what is being done at COVESA to
+avoid ecosystem fragmentation.
+
+José Freitas, Faurecia Aptoide 
+
+[video](https://youtu.be/zeH9LC2XHWs)
+
+### Talk 3: You Can't Escape the Past: How early design decisions continue to influence Android today
+Chet Haase talks about the team that built the Android operating system and why
+they chose to do certain things certain ways: the graphics stack, security
+model, the app programming language ... these are things that affect us every
+day
+
+Chet Haase
+
+[video](https://youtu.be/ZDnlKg5Y7TA)
+
+
 ## The March 2024 Meetup
 
 20th March 2024: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/298562265/>
