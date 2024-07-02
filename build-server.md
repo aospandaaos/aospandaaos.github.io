@@ -6,10 +6,8 @@
 ## Hardware
 Building AOSP is a non-trivial task. You need powerful hardware, running a recent Linux
 distribution, with all the right packages installed. This link tells you what the
-AOSP developers have to say on the topic:
-
-[This link](https://source.android.com/source/initializing.html) tells you what the
-AOSP developers have to say on the topic
+AOSP developers have to say on the topic: 
+<https://source.android.com/source/initializing.html>
 
 In reality, you can build AOSP 14 with a minimum setup like this:
 
@@ -17,16 +15,20 @@ In reality, you can build AOSP 14 with a minimum setup like this:
 * 4 physical cores
 * 500 GB disk
 
-A machine like this will take 6 to 10 hours to build the images
+A machine like this will take 6 to 10 hours to build the images. The key parameter
+is the amount of RAM. During the parsing phase, Soong eats up about 40 to 50 GB,
+but after that, it uses about 2 GB per core. The requirement is lower on earlier
+versions, for example AOSP 13 builds fine with 32 GB.
 
-If you are building images many times per day then you will need something more like this:
+If you are building images many times per day then you will want more cores
+and a faster hard drive. How many? How fast? As many and as fast as you can
+afford. For example:
 
 * 64 GB RAM
 * 32 physical cores
 * 500 GB fast SSD
 
-Such a machine can build AOSP in an hour or two. If you are building AOSP 13,
-you can get away with only 32 GB RAM
+Such a machine can build AOSP in an hour or two
 
 You can can run the build locally on your own computer, or do it in the cloud.
 Buying a decent specification machine is going to cost several thousand
