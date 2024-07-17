@@ -18,10 +18,10 @@ You can contact us via aospandaaosmeetup@gmail.com
 
 [Setting up a build server](build-server.md)
 
-
 [Building AOSP for the Goldfish Emulator](device-goldfish.md)
 
-
 [Building AOSP for the VIM3 board](device-vim3.md)
+
+[Building AOSP for the Raspberry Pi 4B](device-rpi4.md)
 
 
