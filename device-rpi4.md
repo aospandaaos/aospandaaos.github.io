@@ -52,7 +52,7 @@ $ mkdir ~/aosp
 $ cd ~/aosp
 $ repo init -u https://android.googlesource.com/platform/manifest -b android-13.0.0_r11
 $ mkdir .repo/local_manifests
-$ git clone https://github.com/aospandaaos/a3m-rpi-device.git .repo/local_manifests
+$ git clone https://github.com/aospandaaos/a3m-rpi-manifest.git .repo/local_manifests
 $ repo sync -c
 ```
 
@@ -89,6 +89,36 @@ vbmeta.img
 vbmeta_system.img
 deploy-gpt.img
 ```
+
+
+## Hardware
+* Raspberry Pi 4B with 4GB or 8GB(recommended) RAM
+* Decent quality micro SD card, ideally class A1 or A2
+* Touch screen, such as the Elecrow 7" or 10" HDMI panel with USB touch interface
+
+Connect the HDMI interface on the screen to the Raspberry Pi micro HDMI port
+
+Connect the USB touch interface to one of the USB A ports on the Raspberry Pi
+
+Connect a USB cable from your computer to the USB C port on the Raspberry Pi
+
+### Power considerations
+In order that ADB and fastboot work over USB, we need to use the USB C port on
+the Raspberry Pi to connect to your computer. In this configuration your computer is powering the
+Raspberry Pi, which will quite likely exceed the current available vi USB. The
+best solution is to power the Pi via GPIO, using a 5V 3A source. A workaround
+that seems to work OK for me is to power the touch screen via it's own USB power
+port. Also, remember that the current limit on PC USB connectors is different
+for different USB connector types (I am simplifying things a lot here: read the
+USB specs for full details):
+
+USB A 2.0: 500mA
+
+USB A 3.x: 900 mA
+
+USB C: 1.5 A
+
+YMMV
 
 
 ## Use fastboot to copy images to Pi
@@ -141,3 +171,14 @@ Then use the script to flash the images:
 $ ./flash-sd.sh
 ```
 
+## ADB
+Once the Pi has booted Android, you can connect using ADB over the USB cable:
+
+```bash
+$ adb devices
+List of devices attached
+10000000650b1601	device
+
+$ adb shell
+rpi4:/ $ 
+```
