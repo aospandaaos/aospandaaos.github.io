@@ -5,6 +5,31 @@ Here you will find an archive of all the meetings of the
 
 The slides and videos for all of the talks are available - just click on the links below.
 
+## The July 2024 Meetup
+
+17th July 2024: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/301171250/>
+
+### Introduction
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-july-introduction.pdf)
+
+### Talk 1: AOSP Development Environment best practices, tips, and tricks
+
+Let us talk about tools we use for AOSP development. In this presentation we will focus on using Visual Studio Code and do some live demos
+
+Roman Illarionov and Viktor Mukha, Paradoxcat
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-july-vmukha-tips-and-tricks.pdf)
+[video](https://youtu.be/vuy4We_mbJg)
+
+### Talk 2: AAOS on Raspberry Pi: an on-going project
+
+An update on where we are with this project
+
+Chris Simmonds
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-july-csimmonds-a3m-rpi.pdf)
+[video](https://youtu.be/Q0BYKAb1BHw)
+
 
 ## The May 2024 Meetup
 
