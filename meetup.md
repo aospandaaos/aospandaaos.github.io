@@ -5,6 +5,35 @@ Here you will find an archive of all the meetings of the
 
 The slides and videos for all of the talks are available - just click on the links below.
 
+
+## The September 2024 Meetup
+
+### Talk 1: The COVESA AOSP SDK
+
+Through the Automotive AOSP App Framework Standardization Expert Group, members
+of COVESA are working on an SDK that provides a set of libraries which allow
+third-party applications to access some automotive features in a way that is
+independent of manufacturer and model
+
+Daniele Bonaldo, Snapp Automotive
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-september-dbonaldo-covesa-sdk.pdf)
+[video](https://youtu.be/Hlixp4lOOQY)
+
+### Talk 2: Feedback from OSS and Linux Plumbers Conference in Vienna
+Last week there were two important conferences: the Open Source Summit Europe (OSSE)
+and Linux Plumbers Conference (LPC), both taking place in the city of Vienna.
+There were a lot of AOSP developers there and many talks on AOSP topics. Here,
+I will give an overview of the topics presented and give you a flavor of some
+of the conversations that went on in the hallways in between
+
+Chris Simmonds, 2net
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-september-csimmonds-notes-from-vienna.pdf)
+[video](https://youtu.be/9UuQO6vVkv0)
+
+
+
 ## The July 2024 Meetup
 
 17th July 2024: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/301171250/>
