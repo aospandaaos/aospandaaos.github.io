@@ -2,15 +2,13 @@
 layout: default
 ---
 
-# About
-
 The AOSP and AAOS Meetup Group is a forum for talking about building,
 developing, and testing products based on AOSP (Android Open Source Project)
 and AAOS (Android Automotive OS). There are two main strands: meetups and
 projects
 
 
-# Meetups
+# [Meetups](meetup.html)
 
 The Meetups are the main reason for the existence of the group.  Meetings are
 held every two months starting in January (so, January, March, May, July,
@@ -27,7 +25,7 @@ meeting, and also to create an archive of useful information. [Click on this
 link to see details of all past meetings](meetup.html)
 
 
-# Projects
+# [Projects](projects.html)
 
 [The projects pages](projects.html) are a way to share information about performing
 common tasks such as building AOSP
@@ -35,10 +33,9 @@ common tasks such as building AOSP
 
 # Community
 
-Community is where we all come together to talk and exchange ideas. This meetup
-is part of that, and there is a Slack workspace (for historical reasons) where we
-can keep in touch between meetups:
-<https://join.slack.com/t/theaospandaao-ij91284/shared_invite/zt-1k7lmay4j-fX1EGjNgN7OUh72jucQg2g>
+These bi-monthly meetings are one important part of making a community, but
+there is much more besides. If you want more interaction, take a look at
+<https://aosp-devs.org/>
 
 
 # Devices
