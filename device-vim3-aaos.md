@@ -12,7 +12,7 @@ Objectives:
 * test
 
 
-This project builds on the information in the [VIM3 device project](<device-vim3.md)
+This project builds on the information in the [VIM3 device project](device-vim3.md)
 
 ## Patching the amlogic "yukawa" device
 
@@ -53,6 +53,6 @@ $ m TARGET_AUTOMOTIVE=true TARGET_VIM3=true
 ```
 
 When the build has completed you can flash the images to your VIM3 board by
-following the instructions for the [VIM3 device project](<device-vim3.md),
+following the instructions for the [VIM3 device project](device-vim3.md),
 starting from heading "Testing"
 
