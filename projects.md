@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # AOSP Projects
 
 This is a series of projects that illustrate aspects of building and running
@@ -21,6 +25,8 @@ You can contact us via aospandaaosmeetup@gmail.com
 [Building AOSP for the Goldfish Emulator](device-goldfish.md)
 
 [Building AOSP for the VIM3 board](device-vim3.md)
+
+[Building Android Automotive OS for the VIM3 board](device-vim3-aaos.html)
 
 [Building AOSP for the Raspberry Pi 4B](device-rpi4.md)
 
