@@ -27,6 +27,7 @@ this is the only one I have tested:
 $ mkdir ~/aosp
 $ cd ~/aosp
 $ repo init --partial-clone -u https://android.googlesource.com/platform/manifest -b android-14.0.0_r28
+$ repo sync
 ```
 Note that --partial-clone reduces the size of the download. It is optional
 
