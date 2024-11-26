@@ -6,6 +6,18 @@ Here you will find an archive of all the meetings of the
 The slides and videos for all of the talks are available - just click on the links below.
 
 
+## The November 2024 Meetup
+
+### Talk 1: The COVESA AOSP SDK
+We launched aosp-devs.org at the start of November. Here, Chris Simmonds talksi
+about the genesis of the group, its aims and achievements so far
+
+Chris Simmonds
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2024-november-csimmonds-aosp-devs.pdf)
+[video](https://youtu.be/YE7G_cwkAR8)
+
+
 ## The September 2024 Meetup
 
 ### Talk 1: The COVESA AOSP SDK
