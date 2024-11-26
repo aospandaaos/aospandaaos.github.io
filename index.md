@@ -31,14 +31,14 @@ link to see details of all past meetings](meetup.html)
 common tasks such as building AOSP
 
 
-# Community
+# [Community](https://aosp-devs.org/)
 
 These bi-monthly meetings are one important part of making a community, but
 there is much more besides. If you want more interaction, take a look at
 <https://aosp-devs.org/>
 
 
-# Devices
+# [Devices](devices.html)
 
 Android is not just smart phones. [There is a separate section dedicated to
 Android running on devices of all types](devices.html)
