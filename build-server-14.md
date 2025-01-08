@@ -3,8 +3,8 @@
 
 # Project: Setting up a build server
 
-* *Android 15*
-* [Android 14](build-server-14.md)
+* [Android 15](build-server.md)
+* *Android 14*
 
 ## Hardware
 Building AOSP is a non-trivial task. You need powerful hardware, running a recent Linux
@@ -12,7 +12,7 @@ distribution, with all the right packages installed. This link tells you what th
 AOSP developers have to say on the topic: 
 <https://source.android.com/source/initializing.html>
 
-In reality, you can build AOSP 15 with a minimum setup like this:
+In reality, you can build AOSP 14 with a minimum setup like this:
 
 * 64 GB RAM
 * 4 physical cores
@@ -47,7 +47,7 @@ either locally or in the cloud will slow things down by maybe a factor of two
 
 The operating system must be Linux. In practice it is always Ubuntu, because
 that is what the AOSP developers use. Generally, it's best to use a version of
-Ubuntu that was current when AOSP was released. For AOSP 14 and 15, I use
+Ubuntu that was current when AOSP was released. For AOSP 13 and 14, I use
 Ubuntu 20.04
 
 You need to install some packages:
@@ -106,15 +106,15 @@ about 160 GiB, about half of which is the git history. If you simply want to
 build images you do not really need the history, so you should do a "shallow
 clone" by setting the depth parameter.
 
-Here are two examples of getting Android tag android-15.0.0_r9, first using a
+Here are two examples of getting Android tag android-14.0.0_r37, first using a
 shallow clone:
 
 ```bash
-$ repo init --depth=1 -u https://android.googlesource.com/platform/manifest -b android-15.0.0_r9
+$ repo init --depth=1 -u https://android.googlesource.com/platform/manifest -b android-14.0.0_r37
 ```
 If you want to get the full git history, just miss off the --depth option:
 ```bash
-$ repo init -u https://android.googlesource.com/platform/manifest -b android-15.0.0_r9
+$ repo init -u https://android.googlesource.com/platform/manifest -b android-14.0.0_r37
 ```
 Whichever way you do it, repo init sets up the repo environment in (hidden)
 directory ~/aosp/.repo.  The manifest is stored in ~/aosp/.repo/manifests/default.xml.
