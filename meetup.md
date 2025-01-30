@@ -6,6 +6,27 @@ Here you will find an archive of all the meetings of the
 The slides and videos for all of the talks are available - just click on the links below.
 
 
+## The January 2025 Meetup
+
+### Talk 1: Bugreport is your friend
+
+Using the bugreport command a lot of issues ranging from audio mixing, screen flicker, and issues regarding Car power policies can be resolved effectively. In this talk I would like to highlight the information from the bugreport that could help resolve various issues
+
+Ramalinga Prasad Tadapalli
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2025-january-prasad-bugreport.pdf)
+[video](https://youtu.be/Myx5fgggYto)
+
+### Talk 2: Exploring Android Kiosk Variants
+
+Defining requirements for restricted Android UI
+
+Igor Kalkov-Streitz, Emteria
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2025-january-iks-kiosk.pdf)
+[video](https://youtu.be/3UzLowj-3xQ)
+
+
 ## The November 2024 Meetup
 
 ### Talk 1: The AOSP community and aosp-devs.org
