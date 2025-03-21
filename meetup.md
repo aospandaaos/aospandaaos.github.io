@@ -5,6 +5,26 @@ Here you will find an archive of all the meetings of the
 
 The slides and videos for all of the talks are available - just click on the links below.
 
+## The March 2025 Meetup
+
+### Talk 1: Using Vendor APEX in AOSP
+
+Vendor APEX modules allow developers to package entire feature implementations, such as the WiFi HAL, into a single, self-contained unit. The advantages are faster iteration, simplified testing, easier debugging, and modular updates.
+
+Renjith Rajagopal 
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2025-march-rrajagopal-vendor-apex.pdf)
+[video](https://youtu.be/6aS67PqueCw)
+
+
+### Talk 2: What to expect in Android 16
+Android 16 is early this year, in Q2 in fact. Apart from the release schedule, what else is new? Here is a summary of the things that we can expect.
+
+Mishaal Rahman
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2025-march-mrahman-android-16.pdf)
+[video](https://youtu.be/kJTu60Lu9Rw)
+
 
 ## The January 2025 Meetup
 
