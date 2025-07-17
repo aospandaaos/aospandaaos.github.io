@@ -5,6 +5,19 @@ Here you will find an archive of all the meetings of the
 
 The slides and videos for all of the talks are available - just click on the links below.
 
+## The Jult 2025 Meetup
+
+### Talk 1: Writing Android system apps
+
+Normal apps are limited by the constraints of their sandbox. System apps, on the other hand,
+can escape the sandbox to varying extents. In this talk, I explain the various levels of
+system app and how to build them in AOSP
+
+Chris Simmonds
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2025-july-system-apps.pdf)
+
+
 ## The March 2025 Meetup
 
 ### Talk 1: Using Vendor APEX in AOSP
