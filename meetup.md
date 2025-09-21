@@ -5,7 +5,25 @@ Here you will find an archive of all the meetings of the
 
 The slides and videos for all of the talks are available - just click on the links below.
 
-## The Jult 2025 Meetup
+## The September 2025 Meetup
+
+17th September 2025: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/309610342/>
+
+### Talk 1: Mastering SELinux in AOSP: From Frustration to Control
+
+SELinux is often seen as a blocker when working with AOSP — especially when "avc: denied" messages get in the way. But when understood and managed properly, SEPolicy becomes a powerful tool to harden and structure your system. In this talk, you’ll learn:
+* Why SELinux is critical to Android security
+* How to manage and maintain SEPolicy in real AOSP projects
+* Proven techniques to debug and fix policy issues
+
+Daniel Fages
+
+[video](https://youtu.be/SykYnPC5Yrg)
+
+
+## The July 2025 Meetup
+
+16th July 2025: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/307910082/>
 
 ### Talk 1: Writing Android system apps
 
@@ -19,6 +37,8 @@ Chris Simmonds
 
 
 ## The March 2025 Meetup
+
+19th March 2025: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/305840348/>
 
 ### Talk 1: Using Vendor APEX in AOSP
 
@@ -41,6 +61,7 @@ Mishaal Rahman
 
 ## The January 2025 Meetup
 
+29th January 2025: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/304614725/>
 ### Talk 1: Bugreport is your friend
 
 Using the bugreport command a lot of issues ranging from audio mixing, screen flicker, and issues regarding Car power policies can be resolved effectively. In this talk I would like to highlight the information from the bugreport that could help resolve various issues
@@ -62,6 +83,8 @@ Igor Kalkov-Streitz, Emteria
 
 ## The November 2024 Meetup
 
+20th November 2024: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/303637090/>
+
 ### Talk 1: The AOSP community and aosp-devs.org
 We launched aosp-devs.org at the start of November. Here, Chris Simmonds talks
 about the genesis of the group, its aims and achievements so far
@@ -73,6 +96,8 @@ Chris Simmonds
 
 
 ## The September 2024 Meetup
+
+25th September 2024: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/302287940/>
 
 ### Talk 1: The COVESA AOSP SDK
 
