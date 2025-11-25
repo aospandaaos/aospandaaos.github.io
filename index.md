@@ -18,7 +18,7 @@ talks of up to 30 minutes each on any topics that we find interesting, followed
 by time for networking. Since AOSP and AAOS developers are scattered over a
 wide area, this is an online meetup. We use a Meetup.com group to coordinate
 the live meetups - <https://www.meetup.com/the-aosp-and-aaos-meetup/>
- - you will get a link to the zoom session when you RSVP to a meeting
+ - you will get a link to the jitsi session when you RSVP to a meeting
 
 The talks are recorded and available online for those who didn't make the
 meeting, and also to create an archive of useful information. [Click on this
