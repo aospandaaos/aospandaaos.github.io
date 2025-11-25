@@ -21,13 +21,13 @@ draws on his experiences working at Nokia and Huawei to highlight the roadblocks
 that are preventing Android becoming a first class operating system for RISC-V.
 Yuning's enthusiasm is apparent, as is his eccentric choice of head gear
 
-[video]<https://youtu.be/QVk4-rYrhoY>
+[video](https://youtu.be/QVk4-rYrhoY)
 
 ### Talk 2: Will "sideloading" Android apps be possible in the future?
 A round table discussion about Google's proposed requirement for developer
 registration and the implications for "sideloading"
 
-[video]<https://youtu.be/yYYsUenNkkg>
+[video](https://youtu.be/yYYsUenNkkg)
 
 
 ## The September 2025 Meetup
