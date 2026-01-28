@@ -6,28 +6,32 @@ Here you will find an archive of all the meetings of the
 The slides and videos for all of the talks are available - just click on the links below.
 
 
-## The November 2025 Meetup
+## The January 2026 Meetup
 
-19th November 2025: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/311085579/>
+28th January 2026: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/312079993/>
 
 ### Introduction
-[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2025-november-introduction.pdf)
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-january-introduction.pdf)
 
-### Talk 1: What is the state of Android on RISC-V?
+### Talk 1: Keeping Android up to date when the OEM fails to
 
-Yuning Liang joins us to talk about his experience developing RISC-V devices,
-which today mostly run Linux distros such as Debian. Looking forward, Yuning
-draws on his experiences working at Nokia and Huawei to highlight the roadblocks
-that are preventing Android becoming a first class operating system for RISC-V.
-Yuning's enthusiasm is apparent, as is his eccentric choice of head gear
+The Advantech TPC-107W only supports Android 10 without secure boot. This talk
+shows how running the latest software was achieved without any help from
+Advantech and which challenges had to be overcome. It also briefly goes into
+why this was done and why you might want to do the same
 
-[video](https://youtu.be/QVk4-rYrhoY)
+Michael Zimmermann, 7/LAB
 
-### Talk 2: Will "sideloading" Android apps be possible in the future?
-A round table discussion about Google's proposed requirement for developer
-registration and the implications for "sideloading"
+### Talk 2 Debugging Android OS at Scale: AI-Powered Log Analysis
 
-[video](https://youtu.be/yYYsUenNkkg)
+AOSP builders spend hours manually correlating events across logcat, dmesg, and
+bugreports to debug system issues. logcat.ai uses AI to automate this,
+performing multi-step root cause investigations through autonomous "deep
+research" that follows leads step-by-step. We're making enterprise-grade
+debugging accessible to individual developers and open-source projects through
+our OSS program at logcat.ai/oss
+
+Varun Chitre, logcat.ai
 
 
 ## The September 2025 Meetup
