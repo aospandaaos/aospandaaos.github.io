@@ -22,7 +22,10 @@ why this was done and why you might want to do the same
 
 Michael Zimmermann, 7/LAB
 
-### Talk 2 Debugging Android OS at Scale: AI-Powered Log Analysis
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-january-mzimmermann-keeping-android-up-to-date.pdf)
+[video](https://youtu.be/fdC-_l0dxtg)
+
+### Talk 2: Debugging Android OS at Scale: AI-Powered Log Analysis
 
 AOSP builders spend hours manually correlating events across logcat, dmesg, and
 bugreports to debug system issues. logcat.ai uses AI to automate this,
@@ -33,6 +36,8 @@ our OSS program at logcat.ai/oss
 
 Varun Chitre, logcat.ai
 
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-january-vchitre-logcatai.pdf)
+[video](https://youtu.be/yDpInpfV85g)
 
 ## The September 2025 Meetup
 
