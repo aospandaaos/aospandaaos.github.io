@@ -6,6 +6,32 @@ Here you will find an archive of all the meetings of the
 The slides and videos for all of the talks are available - just click on the links below.
 
 
+## The March 2026 Meetup
+
+18th March 2026: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/312460202/>
+
+### Talk 1: Acceleration x AOSP: Slashing build times without migration
+
+AOSP development often involves long wait times and "variant explosion" across
+different hardware targets. This talk shows how to use process-level caching
+and distributed execution to cut two-hour builds down to twenty minutes without
+needing to touch your Soong or Ninja scripts.
+
+Peleg Rand, Incredibuild
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-march-prand-incredibuild.pdf)
+[video](https://youtu.be/NUnodGJEfYo)
+
+
+### Discussion: the state of Embedded Android
+
+A round table discussion about Embedded Android: i.e. Android built into
+devices that are beyond the profiles that Google support (Phones, Tablets, TVs,
+Wearables, Automotive)
+
+[video](https://youtu.be/tQlSxB8y9eE)
+
+
 ## The January 2026 Meetup
 
 28th January 2026: <https://www.meetup.com/the-aosp-and-aaos-meetup/events/312079993/>
