@@ -29,7 +29,7 @@ A round table discussion about Embedded Android: i.e. Android built into
 devices that are beyond the profiles that Google support (Phones, Tablets, TVs,
 Wearables, Automotive)
 
-[video](https://youtu.be/tQlSxB8y9eE)
+[video](https://peertube.tech/w/76uRDdi7QSDEjPuSf8tgus)
 
 
 ## The January 2026 Meetup
