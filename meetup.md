@@ -20,7 +20,7 @@ needing to touch your Soong or Ninja scripts.
 Peleg Rand, Incredibuild
 
 [slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-march-prand-incredibuild.pdf)
-[video](https://youtu.be/NUnodGJEfYo)
+[video](https://peertube.tech/w/oe68nnFm3PcxTruYy8ufza)
 
 
 ### Discussion: the state of Embedded Android
